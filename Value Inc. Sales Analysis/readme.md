@@ -1,5 +1,5 @@
 ## Sales Analysis using Tableau
-A comprehensive analysis on the Sales of a company <br> <u> Components </u>
+A comprehensive analysis on the Sales of a company <br> <u> Components: </u>
 <br> - Sales Analysis.ipynb - Data cleaning using Python
 <br> - Readme.md
 <br>
